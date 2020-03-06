@@ -1,4 +1,3 @@
-# Thanks For Visiting My Repository!
 # My Self MOHAMMED SAFI A 
 (Story of a Software Developer from a Mechanical World | Mechanical Engineer | Student)
 
@@ -9,11 +8,15 @@ Now its time to convert passion into the life I taught of pursuing computer scie
 
 So I taught this illusion should not continue and I started to learn to program myself with my previous knowledge I acquired from My High School. Starting from Python programming to a Machine learning developer within a year. Soon My imagination started to expand making infinite possibilities by combining knowledge on both the departments. I started to participate in Various competitions in both National and International Levels and won in 10 Hackathon, 7 Project Expo, 11 Presentations and 15 Awards, 2 conferences as of February-2020. My Passion made me a combination of Mechanical Engineer(Department Rank Holder) and Software Developer(Python Programmer) making my self capable of work in both the fields. I am happy that the force that drives me continues in my workplace also.
 
+
 "A Person Who Walks Up Every Morning With the Determination That Something Wonderful is About to Happen Today"
 
 Specialties:
+
 Languages : Python, C, C++
+
 Academic : Manufacturing, Material, Design
+
 Design Softwares : Autocad , Creo, Working Model-2D
 
 # What This Repository Consists of?
@@ -25,3 +28,7 @@ https://www.hackerrank.com/MR_MECHANICAL
 
 My Linked IN Profile:
 https://www.linkedin.com/in/mr-mechanical-26052000/
+
+
+
+# Thanks For Visiting My Repository!
