@@ -1,0 +1,3 @@
+x=input()
+y=input().split(" ")
+print(" ".join(y[::-1]))
