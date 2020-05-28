@@ -1,0 +1,11 @@
+for _ in range(int(input())):
+    x=input()
+    odd=[]
+    even=[]
+    for i in range(0,len(x)):
+        if i%2==0:
+            odd.append(x[i])
+        else:
+            even.append(x[i])
+    print("".join(odd),"".join(even))
+
