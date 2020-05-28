@@ -1,0 +1,14 @@
+phone_book={}
+for _ in range(int(input())):
+    a,b=input().split()
+    phone_book[a]=b
+
+while True:    
+    try: 
+        check=input()
+    except Exception:
+        break
+    if check in phone_book.keys():
+        print("{}={}".format(check,phone_book[check]))
+    else:
+        print("Not found")
