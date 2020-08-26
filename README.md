@@ -1,5 +1,5 @@
 # My Self MOHAMMED SAFI A 
-(Story of a Software Developer from a Mechanical World | Mechanical Engineer | Student)
+(Software Developer| Mechanical Engineer | Student)
 
 # About ME
 Ever since I was a little kid, Computer Science has been my passion. I still remember sitting near my neighbor's computer, watching them Typing Multi color characters in a black screen (later I figured out its a compiler and c++ program). My curiosity to know what it is pushed me into a world of Computers. I started staying in a computer repairing shop after school till night to know more about the Computer, Operating System, Antivirus, and other components. Now my curiosity increased and became my passion which let me take computer sciences in my high school where I learned C++ & OOP's concepts, I Mastered it such a way that I started to compile the program in my mind and predict the output before even my faculty teach 1/4 of it in the presentation.
